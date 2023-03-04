@@ -11,6 +11,7 @@ const Navbar = () => {
               <li>About</li>
               <li>Contact Us</li>
               <li>Auto1</li>
+              <li>jahaj</li>
             </ul>
         </div>
     </div>
